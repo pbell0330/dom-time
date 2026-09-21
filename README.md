@@ -1,2 +1,2 @@
-# dom-time
-cis 376 dom class
+# Bravo-Lab
+cis 376 Bravo Lab
