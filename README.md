@@ -1,2 +1,2 @@
 # Bravo-Lab
-cis 376 Bravo Lab
+cis 376 In-Class Bravo Lab
